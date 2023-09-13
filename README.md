@@ -6,4 +6,4 @@ GridSearchCV, we determined the optimal hyperparameters for these models, subseq
 with these parameters. Finally, we saved the model built by the Gradient Boost Algorithm. To enhance accessibility
 and user-friendliness, we created a local server using Flask in Python. Later, we deployed the model on an Amazon
 EC2 instance, ensuring continuous server operation. Technologies used in this project include pandas, matplotlib,
-seaborn, Amazon EC2 and Flask.# project
+seaborn, Amazon EC2 and Flask.
